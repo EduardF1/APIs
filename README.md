@@ -1,2 +1,2 @@
 # APIs
-A repository with some notes about web applications
+A repository with some notes about web APIs.
